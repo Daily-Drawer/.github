@@ -4,14 +4,6 @@
 <br/>
 <br/>
 
-# 0. Getting Started (시작하기)
-```bash
-$ npm start
-```
-[서비스 링크](https://club-project-one.vercel.app/)
-
-<br/>
-<br/>
 
 # 1. Project Overview (프로젝트 개요)
 - 프로젝트 이름: 하루 서랍
