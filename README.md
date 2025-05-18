@@ -24,21 +24,21 @@
 
 # 3. Key Features (주요 기능)
 - **감정 마커**:
-  - 방문한 곳에 대한 만족도를 다양한 감정 마커(좋음, 보통, 나쁨, 특별)로 표시해보세요
-  - 한눈에 내가 좋아했던 곳과 그렇지 않았던 곳을 구분할 수 있습니다
+    - 방문한 곳에 대한 만족도를 다양한 감정 마커(좋음, 보통, 나쁨, 특별)로 표시해보세요
+    - 한눈에 내가 좋아했던 곳과 그렇지 않았던 곳을 구분할 수 있습니다
 
 - **다이어리**:
-  - 방문한 곳에 대한 상세 정보와 감상을 기록해보세요
-  - 메뉴, 가격, 맛, 분위기 등 원하는 정보를 자유롭게 기록할 수 있습니다
-  - 사진 업로드로 순간을 영원히 기억하세요
-  
+    - 방문한 곳에 대한 상세 정보와 감상을 기록해보세요
+    - 메뉴, 가격, 맛, 분위기 등 원하는 정보를 자유롭게 기록할 수 있습니다
+    - 사진 업로드로 순간을 영원히 기억하세요
+
 - **지도**:
-  - 직관적인 지도 인터페이스
-  - 내가 방문한 모든 곳을 한눈에 확인할 수 있습니다
+    - 직관적인 지도 인터페이스
+    - 내가 방문한 모든 곳을 한눈에 확인할 수 있습니다
 
 - **검색 및 필터링**:
-  - 방문 날짜, 위치, 평가 등 다양한 조건으로 기록된 곳을 쉽게 찾을 수 있습니다
-  - 특별한 날에 방문했던 곳을 빠르게 찾아볼 수 있습니다
+    - 방문 날짜, 위치, 평가 등 다양한 조건으로 기록된 곳을 쉽게 찾을 수 있습니다
+    - 특별한 날에 방문했던 곳을 빠르게 찾아볼 수 있습니다
 
 <br/>
 <br/>
@@ -66,3 +66,6 @@ Version Control | ![Git](https://img.shields.io/badge/git-F05032?style=for-the-b
 Communication |  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 <br/>
+
+# 6. Infra Architecture (인프라 구조)
+![Image](https://github.com/user-attachments/assets/b1b43a3f-15f7-4664-8f46-a72af7d620af)
