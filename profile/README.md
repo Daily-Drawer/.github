@@ -68,4 +68,4 @@ Communication |  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?sty
 <br/>
 
 # 6. Infra Architecture (인프라 구조)
-![Image](https://github.com/user-attachments/assets/a5f1da36-a822-4a98-9ecf-cfd7368144a6)
+![Image](https://github.com/user-attachments/assets/b1b43a3f-15f7-4664-8f46-a72af7d620af)
